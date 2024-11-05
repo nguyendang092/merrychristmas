@@ -3,7 +3,6 @@
 * {
   box-sizing: border-box;
 }
-
 body {
   background-color: #928A97;
   background-image: url('https://images.pexels.com/photos/257909/pexels-photo-257909.jpeg?fit=crop&w=1920&h=1280');
@@ -224,8 +223,8 @@ body {
 }
 
 p {
-  font-family: 'Mirza', Verdana, Arial, serif;
-  font-size: 36px;
+  font-family: "EB Garamond", serif;
+  font-size: 26px;
   line-height: 1.2em;
   padding-left: 10px;
 
